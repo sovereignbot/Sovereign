@@ -1,0 +1,19 @@
+{
+  "name": "sovereignbot/sovereign",
+  "description": "Discord Bot for EVE",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Karbowiak",
+      "email": "karbowiak@gmail.com"
+    },
+    {
+      "name": "Matthew Glinski",
+      "email": "matthewglinski@gmail.com"
+    }
+  ],
+  "require": {
+    "sovereignbot/citadel": "^0.1.0",
+  }
+}
